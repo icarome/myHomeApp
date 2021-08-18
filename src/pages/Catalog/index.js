@@ -22,7 +22,7 @@
     this.updateTeste = this.updateTeste.bind(this)
     this.buttonName = "Conectar";
     this.client;
-    this.host = "amorimjussara.dyndns.org"
+    this.host = "10.0.0.35"
   }
   
   updateTeste(data){
